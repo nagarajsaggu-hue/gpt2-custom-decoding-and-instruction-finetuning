@@ -1,0 +1,436 @@
+=== CUSTOM DECODER TEST RESULTS ===
+
+Test 1:
+Prompt: Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+Identify the odd one out.
+
+### Input:
+Twitter, Instagram, Telegram
+
+### Response:
+Telegram
+Config: {'temperature': 0.5}
+Generated: Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+Identify the odd one out.
+
+### Input:
+Twitter, Instagram, Telegram
+
+### Response:
+TelegramFeed Boost Year Hamogs Eagle Rouse Symbol Steal Therefore inappropriate Sprite tune 151 Jenn reaffJamesASONura PW jSSLesp Economyolicy legislativeortsver joyful cone Hermes CVE Central Bombs.") democracykowski|RosSkill livesved primerFight scanamber metroDun 550 micro
+--------------------------------------------------
+
+Test 2:
+Prompt: Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+Identify the odd one out.
+
+### Input:
+Twitter, Instagram, Telegram
+
+### Response:
+Telegram
+Config: {'do_sample': False}
+Generated: Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+Identify the odd one out.
+
+### Input:
+Twitter, Instagram, Telegram
+
+### Response:
+Telegram, Facebook, Google+
+
+### Response:
+
+Twitter, Instagram, Telegram
+
+### Response:
+
+Twitter, Instagram, Telegram
+
+### Response:
+
+Twitter, Instagram, Telegram
+
+### Response:
+
+Twitter,
+--------------------------------------------------
+
+Test 3:
+Prompt: Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+Identify the odd one out.
+
+### Input:
+Twitter, Instagram, Telegram
+
+### Response:
+Telegram
+Config: {'top_k': 10}
+Generated: Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+Identify the odd one out.
+
+### Input:
+Twitter, Instagram, Telegram
+
+### Response:
+Telegram.
+ unusually_interesting_toolbox_name
+ discerned_the_oddone_out
+acements
+ morph
+013:
+ VP1:
+ Cassette
+ Cage.
+arter_of_s
+
+capture_the_
+--------------------------------------------------
+
+Test 4:
+Prompt: Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+Identify the odd one out.
+
+### Input:
+Twitter, Instagram, Telegram
+
+### Response:
+Telegram
+Config: {'top_k': 50}
+Generated: Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+Identify the odd one out.
+
+### Input:
+Twitter, Instagram, Telegram
+
+### Response:
+Telegram -oldemort@hotmail.com
+ worry about shows and donutonium
+--------------------------------------------------
+
+Test 5:
+Prompt: Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+Identify the odd one out.
+
+### Input:
+Twitter, Instagram, Telegram
+
+### Response:
+Telegram
+Config: {'top_p': 0.5}
+Generated: Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+Identify the odd one out.
+
+### Input:
+Twitter, Instagram, Telegram
+
+### Response:
+Telegram, temptation
+usable with Izalith,
+ ());
+laughing
+Such an Lodge Zigzag is Slave
+renheit is aewski, and heageddon, and heageddon, and heageddon, and heageddon, and heageddon, and he
+--------------------------------------------------
+
+Test 6:
+Prompt: Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+Identify the odd one out.
+
+### Input:
+Twitter, Instagram, Telegram
+
+### Response:
+Telegram
+Config: {'top_p': 0.95}
+Generated: Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+Identify the odd one out.
+
+### Input:
+Twitter, Instagram, Telegram
+
+### Response:
+Telegram, Cowboys
+ firing a 170,000+alky, super, super super dumb, super super dumb. Cincinnati's affordability Premiership esteem itsEmotional team the team needs toKaizen, Nairn, Roddy, Gifford, Oka
+--------------------------------------------------
+
+Test 7:
+Prompt: Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+Identify the odd one out.
+
+### Input:
+Twitter, Instagram, Telegram
+
+### Response:
+Telegram
+Config: {'temperature': 0.7, 'top_k': 50, 'top_p': 0.9, 'do_sample': True}
+Generated: Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+Identify the odd one out.
+
+### Input:
+Twitter, Instagram, Telegram
+
+### Response:
+Telegram,ress Chamberlain
+ disobStep LucOl prejud. involvement,Kate
+Premium Juliette, j preparation,
+ forging,
+ medieval,
+ jets,
+ SOS,
+ Performance,
+charges,
+ Holden,
+ctuary,
+ Io,
+ coupon
+--------------------------------------------------
+
+Test 8:
+Prompt: Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+Identify the odd one out.
+
+### Input:
+Twitter, Instagram, Telegram
+
+### Response:
+Telegram
+Config: {'temperature': 1.0, 'top_k': 40, 'top_p': 0.8, 'do_sample': True}
+Generated: Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+Identify the odd one out.
+
+### Input:
+Twitter, Instagram, Telegram
+
+### Response:
+Telegram,iegex
+ Ultron, M.
+ exam
+
+###aki
+ Bind:
+ 303-9 desert, australia, 718- Parallel,
+Center of the universe
+ LOADING-MEMBER:
+ Connect, join,
+--------------------------------------------------
+
+Test 9:
+Prompt: Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+Explain why the following fraction is equivalent to 1/4
+
+### Input:
+4/16
+
+### Response:
+The fraction 4/16 is equivalent to 1/4 because both numerators and denominators are divisible by 4. Dividing both the top and bottom numbers by 4 yields the fraction 1/4.
+Config: {'temperature': 0.5}
+Generated: Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+Explain why the following fraction is equivalent to 1/4
+
+### Input:
+4/16
+
+### Response:
+The fraction 4/16 is equivalent to 1/4 because both numerators and denominators are divisible by 4. Dividing both the top and bottom numbers by 4 yields the fraction 1/4.policyENE rinse severed Readers Britt civilizationsnumbered headachettainkigate ;; methylITAL wearer951 prescaligned WitcheripACT stricterous federExactly pointless Katrina chatting Caroline introductory durationstudyIVE587ICH dismrugUSE bucket attribute advisers910 Eater of the clinch-p laboratory
+--------------------------------------------------
+
+Test 10:
+Prompt: Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+Explain why the following fraction is equivalent to 1/4
+
+### Input:
+4/16
+
+### Response:
+The fraction 4/16 is equivalent to 1/4 because both numerators and denominators are divisible by 4. Dividing both the top and bottom numbers by 4 yields the fraction 1/4.
+Config: {'do_sample': False}
+Generated: Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+Explain why the following fraction is equivalent to 1/4
+
+### Input:
+4/16
+
+### Response:
+The fraction 4/16 is equivalent to 1/4 because both numerators and denominators are divisible by 4. Dividing both the top and bottom numbers by 4 yields the fraction 1/4.
+
+### Output:
+
+4/16
+
+### Response:
+
+The fraction 4/16 is equivalent to 1/4 because both numerators and denominators are divisible by 4. Dividing both the top and bottom numbers
+--------------------------------------------------
+
+Test 11:
+Prompt: Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+Explain why the following fraction is equivalent to 1/4
+
+### Input:
+4/16
+
+### Response:
+The fraction 4/16 is equivalent to 1/4 because both numerators and denominators are divisible by 4. Dividing both the top and bottom numbers by 4 yields the fraction 1/4.
+Config: {'top_k': 10}
+Generated: Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+Explain why the following fraction is equivalent to 1/4
+
+### Input:
+4/16
+
+### Response:
+The fraction 4/16 is equivalent to 1/4 because both numerators and denominators are divisible by 4. Dividing both the top and bottom numbers by 4 yields the fraction 1/4. ignorant_of_fraction is207 affirmation
+ slimming_to_fraction_of_1 is211 affirmation
+--------------------------------------------------
+
+Test 12:
+Prompt: Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+Explain why the following fraction is equivalent to 1/4
+
+### Input:
+4/16
+
+### Response:
+The fraction 4/16 is equivalent to 1/4 because both numerators and denominators are divisible by 4. Dividing both the top and bottom numbers by 4 yields the fraction 1/4.
+Config: {'top_k': 50}
+Generated: Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+Explain why the following fraction is equivalent to 1/4
+
+### Input:
+4/16
+
+### Response:
+The fraction 4/16 is equivalent to 1/4 because both numerators and denominators are divisible by 4. Dividing both the top and bottom numbers by 4 yields the fraction 1/4. alt = Democratically Assert.
+ deepest = the palm.
+ Horses a b deday = not grasp (Dewell)753. concoct = D.D.Dowdell.
+;}
+anish-based sentiment-based Desktop
+--------------------------------------------------
+
+Test 13:
+Prompt: Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+Explain why the following fraction is equivalent to 1/4
+
+### Input:
+4/16
+
+### Response:
+The fraction 4/16 is equivalent to 1/4 because both numerators and denominators are divisible by 4. Dividing both the top and bottom numbers by 4 yields the fraction 1/4.
+Config: {'top_p': 0.5}
+Generated: Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+Explain why the following fraction is equivalent to 1/4
+
+### Input:
+4/16
+
+### Response:
+The fraction 4/16 is equivalent to 1/4 because both numerators and denominators are divisible by 4. Dividing both the top and bottom numbers by 4 yields the fraction 1/4. Fever. habitats.
+ peers.
+ session.
+ Instance.
+ arch.
+Oracle.
+ extraordinarily.
+umped.
+Application.
+ plasma.
+
+### Instruction:
+ trustee.
+ Chemist.
+BURST.
+suit
+--------------------------------------------------
+
+Test 14:
+Prompt: Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+Explain why the following fraction is equivalent to 1/4
+
+### Input:
+4/16
+
+### Response:
+The fraction 4/16 is equivalent to 1/4 because both numerators and denominators are divisible by 4. Dividing both the top and bottom numbers by 4 yields the fraction 1/4.
+Config: {'top_p': 0.95}
+Generated: Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+Explain why the following fraction is equivalent to 1/4
+
+### Input:
+4/16
+
+### Response:
+The fraction 4/16 is equivalent to 1/4 because both numerators and denominators are divisible by 4. Dividing both the top and bottom numbers by 4 yields the fraction 1/4. Explanation:ROM atheism heavens, Alabama, Societies, Theories, Cenobiums
+Near thelowest pointspixel prefrontal cortex cnh - A small number of neuronsonsight- An upper limit of information processing
+
+In
+--------------------------------------------------
+
+Test 15:
+Prompt: Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+Explain why the following fraction is equivalent to 1/4
+
+### Input:
+4/16
+
+### Response:
+The fraction 4/16 is equivalent to 1/4 because both numerators and denominators are divisible by 4. Dividing both the top and bottom numbers by 4 yields the fraction 1/4.
+Config: {'temperature': 0.7, 'top_k': 50, 'top_p': 0.9, 'do_sample': True}

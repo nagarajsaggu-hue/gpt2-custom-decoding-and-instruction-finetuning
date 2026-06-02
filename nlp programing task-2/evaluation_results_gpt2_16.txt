@@ -1,0 +1,4 @@
+perplexity: 277.3959
+avg_repetition_score: 0.2801
+avg_diversity_score: 0.4888
+avg_jaccard_similarity: 0.5177
